@@ -1,2 +1,2 @@
 # Aplikasi-sederhana
-aplikasi 2 pages
+aplikasi intent and activity
