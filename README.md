@@ -1,2 +1,2 @@
-# Aplikasi-sederhana
+# Aplikasi-intent-activity
 aplikasi intent and activity
